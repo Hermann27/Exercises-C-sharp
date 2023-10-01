@@ -1,0 +1,4 @@
+D:\Doc_lipro\C-Sharp\TD3\RechercheDe_Points-cols\RechercheDe_Points-cols\bin\Debug\RechercheDe_Points-cols.exe
+D:\Doc_lipro\C-Sharp\TD3\RechercheDe_Points-cols\RechercheDe_Points-cols\bin\Debug\RechercheDe_Points-cols.pdb
+D:\Doc_lipro\C-Sharp\TD3\RechercheDe_Points-cols\RechercheDe_Points-cols\obj\x86\Debug\RechercheDe_Points-cols.exe
+D:\Doc_lipro\C-Sharp\TD3\RechercheDe_Points-cols\RechercheDe_Points-cols\obj\x86\Debug\RechercheDe_Points-cols.pdb

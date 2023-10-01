@@ -1,0 +1,9 @@
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\bin\Debug\LiaisonDeDonnee.exe
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\bin\Debug\LiaisonDeDonnee.pdb
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.Form1.resources
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.Properties.Resources.resources
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.csproj.GenerateResource.Cache
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.exe
+D:\Doc_lipro\C-Sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.pdb
+G:\Disque D Hermann\Exercices C-sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.exe
+G:\Disque D Hermann\Exercices C-sharp\projets\LiaisonDeDonnee\LiaisonDeDonnee\obj\x86\Debug\LiaisonDeDonnee.pdb

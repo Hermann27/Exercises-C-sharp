@@ -1,0 +1,14 @@
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.Form1.resources
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.Properties.Resources.resources
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.csproj.GenerateResource.Cache
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\bin\Debug\LiaisonDoé_DisplayMber.exe
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\bin\Debug\LiaisonDoé_DisplayMber.pdb
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.exe
+D:\Doc_lipro\C-Sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.pdb
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.exe
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.pdb
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\bin\Debug\LiaisonDoé_DisplayMber.exe
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\bin\Debug\LiaisonDoé_DisplayMber.pdb
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.Form1.resources
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.Properties.Resources.resources
+J:\Exercices C-sharp\projets\LiaisonDoé_DisplayMber\LiaisonDoé_DisplayMber\obj\x86\Debug\LiaisonDoé_DisplayMber.csproj.GenerateResource.Cache

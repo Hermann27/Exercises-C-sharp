@@ -1,0 +1,4 @@
+D:\Doc_lipro\C-Sharp\Comptes_Bancaires\Comptes_Bancaires\bin\Debug\Comptes_Bancaires.exe
+D:\Doc_lipro\C-Sharp\Comptes_Bancaires\Comptes_Bancaires\bin\Debug\Comptes_Bancaires.pdb
+D:\Doc_lipro\C-Sharp\Comptes_Bancaires\Comptes_Bancaires\obj\x86\Debug\Comptes_Bancaires.exe
+D:\Doc_lipro\C-Sharp\Comptes_Bancaires\Comptes_Bancaires\obj\x86\Debug\Comptes_Bancaires.pdb

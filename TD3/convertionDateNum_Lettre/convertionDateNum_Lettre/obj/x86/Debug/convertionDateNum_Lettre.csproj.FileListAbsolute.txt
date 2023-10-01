@@ -1,0 +1,4 @@
+D:\Doc_lipro\C-Sharp\TD3\convertionDateNum_Lettre\convertionDateNum_Lettre\bin\Debug\convertionDateNum_Lettre.exe
+D:\Doc_lipro\C-Sharp\TD3\convertionDateNum_Lettre\convertionDateNum_Lettre\bin\Debug\convertionDateNum_Lettre.pdb
+D:\Doc_lipro\C-Sharp\TD3\convertionDateNum_Lettre\convertionDateNum_Lettre\obj\x86\Debug\convertionDateNum_Lettre.exe
+D:\Doc_lipro\C-Sharp\TD3\convertionDateNum_Lettre\convertionDateNum_Lettre\obj\x86\Debug\convertionDateNum_Lettre.pdb

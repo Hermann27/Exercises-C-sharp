@@ -1,0 +1,5 @@
+D:\Doc_lipro\C-Sharp\TD3\palindrome\palindrome\bin\Debug\palindrome.exe
+D:\Doc_lipro\C-Sharp\TD3\palindrome\palindrome\bin\Debug\palindrome.pdb
+D:\Doc_lipro\C-Sharp\TD3\palindrome\palindrome\obj\x86\Debug\palindrome.exe
+D:\Doc_lipro\C-Sharp\TD3\palindrome\palindrome\obj\x86\Debug\palindrome.pdb
+D:\Doc_lipro\C-Sharp\TD3\palindrome\palindrome\obj\x86\Debug\palindrome.csprojResolveAssemblyReference.cache

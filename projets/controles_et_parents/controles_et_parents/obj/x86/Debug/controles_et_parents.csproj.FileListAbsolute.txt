@@ -1,0 +1,7 @@
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\bin\Debug\controles_et_parents.exe
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\bin\Debug\controles_et_parents.pdb
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\obj\x86\Debug\controles_et_parents.Form1.resources
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\obj\x86\Debug\controles_et_parents.Properties.Resources.resources
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\obj\x86\Debug\controles_et_parents.csproj.GenerateResource.Cache
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\obj\x86\Debug\controles_et_parents.exe
+D:\Doc_lipro\C-Sharp\projets\controles_et_parents\controles_et_parents\obj\x86\Debug\controles_et_parents.pdb

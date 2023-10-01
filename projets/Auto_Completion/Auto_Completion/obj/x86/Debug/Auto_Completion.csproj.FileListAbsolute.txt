@@ -1,0 +1,7 @@
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\bin\Debug\Auto_Completion.exe
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\bin\Debug\Auto_Completion.pdb
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\obj\x86\Debug\Auto_Completion.Form1.resources
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\obj\x86\Debug\Auto_Completion.Properties.Resources.resources
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\obj\x86\Debug\Auto_Completion.csproj.GenerateResource.Cache
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\obj\x86\Debug\Auto_Completion.exe
+D:\Doc_lipro\C-Sharp\projets\Auto_Completion\Auto_Completion\obj\x86\Debug\Auto_Completion.pdb

@@ -1,0 +1,4 @@
+D:\Doc_lipro\C-Sharp\TD3\TriangleDePascal\TriangleDePascal\bin\Debug\TriangleDePascal.exe
+D:\Doc_lipro\C-Sharp\TD3\TriangleDePascal\TriangleDePascal\bin\Debug\TriangleDePascal.pdb
+D:\Doc_lipro\C-Sharp\TD3\TriangleDePascal\TriangleDePascal\obj\x86\Debug\TriangleDePascal.exe
+D:\Doc_lipro\C-Sharp\TD3\TriangleDePascal\TriangleDePascal\obj\x86\Debug\TriangleDePascal.pdb
